@@ -2,7 +2,7 @@
 
 Uses GTFS Schedule for the data.
 
-Developed with java version "22.0.1" 2024-04-16.
+Developed with Java version "22.0.1" 2024-04-16.
 
 ### usage: cmd> java BusTrips <**bus stop ID**> <**number of buses**> <time (relative|absolute)>
 
@@ -10,7 +10,7 @@ Developed with java version "22.0.1" 2024-04-16.
 
 Example use, current time: "09:54:00":
 
-cmd> java .\BusTrips.java 2 5 absolute
+cmd> java BusTrips.java 2 5 absolute
 
 AL Masjid Al-nabawi (Clock Roundabout)
 
